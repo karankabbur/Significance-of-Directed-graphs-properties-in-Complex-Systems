@@ -28,3 +28,7 @@ In the trophic level graph we plot several networks according to the trophic coh
 
 In Pref_preying_model the preferential preying model is applied and analized also in the remain notebooks.
 
+
+### Authors: Delfina Iriarte - Karan Kabbur Hanumanthappa Manjunatha 
+
+
